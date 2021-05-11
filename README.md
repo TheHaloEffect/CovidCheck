@@ -4,8 +4,6 @@ Android app built with Dart, in Android Studio, to display COVID-19 stats, both 
 
 After taking an online course on Dart, I wanted to apply that knowledge and reinforce it in my mind. My first thought was using an API to gather data. Since I was planning the app in the middle of the COVID-19 pandemic, I figured it was an appropiate topic to base the app on.
 
-### NOTE: Despite it saying there are 3 contributors, the only one is me. I assume the other contributors are just issues with how I configured the email and username in Git.
-
 Stats include: 
 
 - Confirmed Cases
