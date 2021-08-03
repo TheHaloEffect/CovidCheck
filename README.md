@@ -12,18 +12,6 @@ After taking an online course on Dart, I wanted to apply that knowledge and rein
 - Cases Today
 - Deaths Today
 
-# Screenshots
+# Demo
 
-Screenshots taken around 16:20 GMT +0 on 18/06/2020
-
-<h3>Global Stats</h3>
-<img src="Screenshots/globalstats.jpg" alt="Global COVID-19 Stats" width="200" height="400">
-
-<h3>Country List</h3>
-<img src="Screenshots/countrylist.jpg" alt="Country List" width="200" height="400">
-
-<h3>US Stats</h3>
-<img src="Screenshots/usstats.jpg" alt="US COVID-19 Stats" width="200" height="400">
-
-<h3>China Stats</h3>
-<img src="Screenshots/chinastats.jpg" alt="China COVID-19 Stats" width="200" height="400">
+<img src="CovidCheckDemo.gif" alt="CovidCheck Demo" width="600" height="400">
