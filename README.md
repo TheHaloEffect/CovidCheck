@@ -13,5 +13,6 @@ After taking an online course on Dart, I wanted to apply that knowledge and rein
 - Deaths Today
 
 # Demo
+Video recorded in mid-June 2020
 
 <img src="CovidCheckDemo.gif" alt="CovidCheck Demo" width="600" height="400">
